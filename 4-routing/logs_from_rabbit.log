@@ -1,0 +1,5 @@
+2023/11/07 11:44:15 Binding queue amq.gen-FyAy3HEg0cwMMjs-LOZp6g to logs_direct with routing key warning
+2023/11/07 11:44:15 Binding queue amq.gen-FyAy3HEg0cwMMjs-LOZp6g to logs_direct with routing key error
+2023/11/07 11:44:15  [*] Waiting for logs. Toi exit press CTRL+C
+2023/11/07 11:44:43  [x] Run. Run. Or it will explode.
+exit status 0xc000013a
